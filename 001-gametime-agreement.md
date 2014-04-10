@@ -19,7 +19,7 @@ This leaves 1 person “out” of the cycle for each meeting, providing some sla
 
 Addition to this, meetings scheduled with stakeholders will be expected to be attended on a weekly basis. These meetings will be scheduled based on the stakeholders availabilities, and will be assigned to at least 4 of the 5 team members for attendance. Attendance of these stakeholder meetings will be on a rotation in order to accommodate those members of the group whom are unable to attend because of conflicting schedules. 
 
-##Enforcement
+#Enforcement
 In order to enforce that all members attend the meetings, we will be setting up a “pizza” rule for our team. A member of the team will have to provide pizza for the team if any of the following occur:
 
 +      Late/unexcused absence  to a scheduled meeting.
@@ -28,11 +28,11 @@ In order to enforce that all members attend the meetings, we will be setting up 
 
 Team members will be held accountable and adhere to the “pizza” rule. 
 
-##Calendar
+#Calendar
 A group calendar (using the Google Calendar service) detailing deadlines, activities, and events scheduled for Informatics 191A will be maintained by all of the members and used as is necessary. The calendar can be downloaded here, and access to ownership (allowing event addition, modification, and deletion) may be granted upon request. Modifications made to events within 7 days should be accompanied by an email 
 to team members advising of changes to imminent events.
 
-##Communication Methods
+#Communication Methods
 Email will be the primary method of communication both internally and externally (with the teaching assistant (TA) and the instructor). All members agree to check their corresponding email address listed below at least twice per day (with no more than 12 hours between checks) during the week, and at least once per day during the weekend.
 
 #Internal emails
@@ -55,22 +55,12 @@ If a team member fails to contribute adequately or fairly to the group assignmen
 
 #Team ______ Contacts
 
-Faraz Ahmad
-faahmad@uci.edu
-949-302-1258
 
-Damon An
-damona@uci.edu
-714-380-2367
+|Name            |Email            |Phone        |
+|----------------|-----------------|-------------|
+|Faraz Ahmad     |faahmad@uci.edu  |949-302-1258 |
+|Damon An        |damona@uci.edu   |714-380-2367 |
+|Marissa Gonzales|marissmg@uci.edu |916-612-6947 |
+|Joshua Jackson  |joshuamj@uci.edu |310-734-9015 |
+|Ryan Phung      |rhphung@uci.edu  |415-680-6096 |
 
-Marissa Gonzales
-marissmg@uci.edu
-916-612-6947
-
-Joshua Jackson
-joshuamj@uci.edu
-310-734-9015
-
-Ryan Phung
-rhphung@uci.edu
-415-680-6096
