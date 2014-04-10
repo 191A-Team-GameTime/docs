@@ -1,10 +1,10 @@
-##Communication Covenant
+#Communication Covenant
 
 #Overview
 The purpose of this document is to establish basic team roles; outline ways of keeping all members and clients apprised of meeting schedules, deadlines, and outcomes; establish preferred means of communication among team members (as well as between team-members and outside clients); determine a standard time and location for regular meetings; and explicitly state team member guidelines of conduct.
 
 #Meeting Times & Roles
-In addition to attending lectures, Team _____ will have meetings, which will take place on:
+In addition to attending lectures, Team Gametime will have meetings, which will take place on:
 Wednesdays between 5pm - 8pm in the ICS building at UCI
 Tuesdays & Thursdays between 12:30pm -1:10pm at the JavaCity parallel to Donald Bren Hall
 
@@ -29,7 +29,7 @@ In order to enforce that all members attend the meetings, we will be setting up 
 Team members will be held accountable and adhere to the “pizza” rule. 
 
 #Calendar
-A group calendar (using the Google Calendar service) detailing deadlines, activities, and events scheduled for Informatics 191A will be maintained by all of the members and used as is necessary. The calendar can be downloaded here, and access to ownership (allowing event addition, modification, and deletion) may be granted upon request. Modifications made to events within 7 days should be accompanied by an email 
+A group calendar (using the Google Calendar service) detailing deadlines, activities, and events scheduled for Informatics 191A will be maintained by all of the members and used as is necessary. Modifications made to events within 7 days should be accompanied by an email 
 to team members advising of changes to imminent events.
 
 #Communication Methods
@@ -53,7 +53,7 @@ Team members will engage respectfully and maturely in all communication. This ag
 #Enforcement
 If a team member fails to contribute adequately or fairly to the group assignments or if a member consistently misses meetings (especially without advance notice), the member will be asked to adhere to our “pizza” rule, which is stated above. Repeated or egregious cases will be brought to the attention of the TA and instructor.
 
-#Team ______ Contacts
+#Team Gametime Contacts
 
 
 |Name            |Email            |Phone        |
