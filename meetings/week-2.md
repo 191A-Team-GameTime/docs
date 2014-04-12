@@ -36,4 +36,4 @@ Our goal this quarter is to produce a working, live, "minimum viable" version of
 
 We are expected to learn Android Development practices on our own, with Scott and Brad as references. 
 
-Kayla will give us login information to the bitBucket that hosts M2Catalyst at our next meeting.
+Scott will give us login information to the bitBucket that hosts M2Catalyst at our next meeting.
