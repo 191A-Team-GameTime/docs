@@ -20,7 +20,7 @@ Faraz Ahmad, Marissa Gonzales, Joshua Jackson, Ryan Phung
 
 ## Time and place
 
-Offices of M2Catalyst, Aliso Viejo, CA, Fri Apr 1, 1030 AM
+Offices of M2Catalyst, Aliso Viejo, CA, Fri Apr 11, 1030 AM
 
 ## Communication schedule
 
