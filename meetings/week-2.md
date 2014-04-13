@@ -9,9 +9,13 @@ Faraz Ahmad, Damon An, Marissa Gonzales, Joshua Jackson, Ryan Phung
 ### Sponsors
 
 Mike Brough, CEO, M2Catalyst  
+
 Jin Wang, Project Manager, M2Catalyst
+
 David Peterson, Project Manager, M2Catalyst
+
 Scott Field, Software Engineer Lead (Android Development), M2Catalyst
+
 Brad Z., Software Engineer Lead (SDK), M2Catalyst
 
 ### Team
