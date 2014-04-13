@@ -2,7 +2,7 @@
 
 ###Team GameTime
 
-###Faraz Ahmad, Damon An, Marissa Gonzales, Joshua Jackson, Ryan Phung
+Faraz Ahmad, Damon An, Marissa Gonzales, Joshua Jackson, Ryan Phung
 
 ## What we are building
 
