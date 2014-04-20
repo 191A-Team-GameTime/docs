@@ -19,7 +19,7 @@ Technical Skills Necessary:
 
 ### Part 2: 
 
-#### 1. Marissa Gonzales
+#### Marissa Gonzales
 2. Okay
 3. Java: Never, jQuery: A couple times, Git: A couple times, Visio: Lots and Lots, Photoshop: Lots and Lots, SDK: once or twice, XML: Never
 4. I need to learn Java. And in general, get better at programming
@@ -30,7 +30,7 @@ Technical Skills Necessary:
 9. We are very active via email and text.  We also appreciate and understand the importance of meeting in person.  Because we share a majority of our classes, we check-in daily with one another. 
 
 
-#### 1. Ryan Phung
+#### Ryan Phung
 2. Pretty good
 3. Java: lots and lots, jQuery: a couple times, Git: a couple times, Visio: a couple times, Photoshop: a couple times, M2Catalyst SDK: never, Android SDK: once, Facebook SDK: never, XML: never
 4. I need to learn more about Android development and using APIs to be integrated into our system.
@@ -41,7 +41,7 @@ Technical Skills Necessary:
 9. I will communicate any updates that I have through email, text, Facebook, our weekly meetings, and during any class time meeting sessions.
 
 
-#### 1. Joshua Jackson
+#### Joshua Jackson
 2. Okay
 3. Java: a couple of times, jQuery: never, Git: a couple of times, XML: a couple of times, Visio: never, Photoshop: once, M2Catalyist SDK: never, Android SDK: a couple of times
 4. I need to learn the android development environment inside and out and API integration as well as strengthening my java skills..
@@ -52,7 +52,7 @@ Technical Skills Necessary:
 9. I will communicate through emails, phone/text, facebook and the multiple weekly meetings with the team. 
 
 
-#### 1. Damon An
+#### Damon An
 2. okay
 3. Java: a couple times, jQuery: never, Git: once, Visio: never, Photoshop: a couple times, M2Catalyst SDK: never, Android SDK: never, XML: never
 4. Get better at Java & learn android SDK. Other than that, learn as much as I can about what I need to do
@@ -63,7 +63,7 @@ Technical Skills Necessary:
 9. We like to do a ton of emailing so that will be our main platform of communication when we are not meeting. Otherwise, we plan on meeting every Wednesday and going over everything that we need to talk about. Not only that, but most of us share the same classes so we plan on becoming more active in seeking out to each other so that at least some of us will be in communication every single day. We will also sit next to each other in class :)
 
 
-#### 1. Faraz Ahmad
+#### Faraz Ahmad
 2. Okay
 3. Java: Once, JQuery: Never, GIT: Once, VISIO: Never, Photoshop: Lots and Lots, M2Catalyst SDK: Never, Android SDK: Never, XML: Never
 4. I need to learn how to use Java and become a better programmer in general, learn about APIs
