@@ -1,12 +1,12 @@
 # Sponsor Meeting 2: Conference Call 1
 
-##Date: April 18, 2014
-##Time: 8:30 am
-##Location: Remote
+### Date: April 18, 2014
+### Time: 8:30 am
+### Location: Remote
 
-### Present: Marissa, Ryan
+#### Present: Marissa, Ryan
 
-###Met With: Mike, Jin
+#### Met With: Mike, Jin
 
 During this brief conference call (approximately 40 minutes long) we established an understanding of timing for our group meetings.  How long we will allow people to show up before starting meetings, and how members should be prompt when calling in for a conference call.  
 
