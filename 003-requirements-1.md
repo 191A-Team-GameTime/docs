@@ -19,6 +19,7 @@
 + The application will notify users of changed status within leaderboards (shown on inbox tray)
 + The application will support challenge mode. 
 + The system shall allow messaging among friends, Twitter, etc.
++ The system will provide smart recommendations for new games the user should try.
 
 ###Social Network Integration
 
