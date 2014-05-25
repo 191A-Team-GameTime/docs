@@ -23,4 +23,4 @@
 
 ## Notes: 
 
-M2Catalyst has decided to slow down the design and implementation process of the application.  They want us to focus on designing the application on paper through flow charts and diagrams to build the databse first. 
+M2Catalyst has decided to slow down the design and implementation process of the application.  They want us to focus on designing the application on paper through flow charts and diagrams to build the database first. 
