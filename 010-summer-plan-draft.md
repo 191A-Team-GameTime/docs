@@ -100,61 +100,70 @@ Linkedin
 </code></pre>
 
 ####Plans for Team Members without Skills:
-<pre><code> There are members who are stronger in fields than others.  
+<pre><code>There are members who are stronger in fields than others.  
 However, for the most part, all members have some degree of all the skills.  
 In order to strengthen these skills, there will be set requirements over summer (which will be “Assignments” so to speak)
 in all the fields to push members to further their progress in the four areas.
 </code></pre>
 
-xi.	Timeline: 
+####Timeline: 
 
-June 16 – June 30
-➢	Take some rest before the July 1st start of learning tasks.
++ June 16 – June 30
+<pre><code>➢	Take some rest before the July 1st start of learning tasks.
 ➢	Communicate with Sponsor that team will be taking some time to recuperate.  
 ➢	Joshua: Work at M2Catalyst and learn from Software team there.
+</code></pre>
 
-July 1 – July 11
-➢	Entire Team: Read more into Android Programming.
++ July 1 – July 11
+<pre><code>➢	Entire Team: Read more into Android Programming.
 ➢	Communicate with Sponsor what we are learning.
 ➢	Communicate with team. 
+</code></pre>
 
-July 12 – July 18
-➢	Entire Team: Continue learning Android Programming.
++ July 12 – July 18
+<pre><code>➢	Entire Team: Continue learning Android Programming.
 ➢	Continue Communication with Sponsor.
 ➢	Continue to Communicate with team.
+</code></pre>
 
-July 21 – July 31
-➢	Entire Team: Continue learning Android Programming
++ July 21 – July 31
+<pre><code>➢	Entire Team: Continue learning Android Programming
 ➢	Continue Communication with team.
 ➢	Continue Communication with Sponsor. 
+</code></pre>
 
-August 1 – August 15
-➢	Sponsor: Deliver new SDK to team. 
++ August 1 – August 15
+<pre><code>➢	Sponsor: Deliver new SDK to team. 
 ➢	Faraz, Marissa, Damon: Learn about Front end UI Development for Android
 ➢	Ryan, Joshua: Learn how to integrate SDK backend with front end.
 ➢	Continue Communication with Team. 
 ➢	Continue Communication with Sponsor.
+</code></pre>
 
-August 16– August 29
-➢	Sponsor: Deliver new SDK to team (if not delivered yet). 
++ August 16– August 29
+<pre><code>➢	Sponsor: Deliver new SDK to team (if not delivered yet). 
 ➢	Faraz, Marissa, Damon: Continue to Learn about Front end UI Development for Android
 ➢	Ryan, Joshua:  Continue to Learn how to integrate SDK backend with front end.
 ➢	Continue Communication with Team. 
 ➢	Continue Communication with Sponsor.
+</code></pre>
 
-September 1 – September 12
-➢	Sponsor: Deliver new SDK to team (if not delivered yet). 
++ September 1 – September 12
+<pre><code>➢	Sponsor: Deliver new SDK to team (if not delivered yet). 
 ➢	Team: Discuss all of the things that we have learned over the summer.
 ➢	Team: Develop and action plan on when to start integrating all our new learned skills with GameTime App.
 ➢	Continue to communicate with Sponsor
+</code></pre>
 
-September 13 – September 19
-➢	Deliver Action plan to Sponsor
++ September 13 – September 19
+<pre><code>➢	Deliver Action plan to Sponsor
 ➢	Make any changes to action plan if sponsor specifies
+</code></pre>
 
-September 20 – September 30
-➢	Resume school at UC Irvine
++ September 20 – September 30
+<pre><code>➢	Resume school at UC Irvine
 ➢	Begin executing action plan of integration
 ➢	Communicate with Sponsor
-➢	Be sad in 191B because Six is no longer our TA. 
+➢	Be sad in 191B because Six is no longer our TA.
+</code></pre>
 
