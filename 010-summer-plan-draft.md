@@ -161,7 +161,7 @@ in all the fields to push members to further their progress in the four areas.
 </code></pre>
 
 + September 20 – September 30
-<pre><code>➢	Resume school at UC Irvine
+<pre><code>➢ Resume school at UC Irvine
 ➢	Begin executing action plan of integration
 ➢	Communicate with Sponsor
 ➢	Be sad in 191B because Six is no longer our TA.
