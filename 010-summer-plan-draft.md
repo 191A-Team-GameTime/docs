@@ -25,24 +25,24 @@ Has three main ‘functions’: My Games,  Friends,  Community / Explore
 + Gather feedback from Target audiences on Mock-ups 2.0
 + Begin plans for Phase 2 of the ‘Final’ Project
 
-iv.	Requirements for Final Product (Fall 2014):
-a.	Deployable Android application
-i.	3 Main Functions finished:
-1.	My Games:	
-a.	Views see their own data usage attributed to games.
-2.	Friends:
-a.	Views see their friends list of usage attributed to games
-3.	Community / Explore:
-a.	List of recommended games based on the genres and trends of the current games on device
-ii.	User accounts must be active on GameTime.
-1.	Users can sign up and must login to access GameTime
-iii.	Friends networking must be in place
-1.	Add Friends
-2.	View Friends
-3.	Delete Friends
-4.	Search for Friends	
-iv.	Recommended Games
-1.	Create an algorithm that will check for the data-usage of games on device + the genre to generate a list of games scrapped from GooglePlay which match the genre and have high ratings.
+####Requirements for Final Product (Fall 2014):
++ Deployable Android application
+   3 Main Functions finished:
+     My Games:	
+         Views see their own data usage attributed to games.
+     Friends:
+         Views see their friends list of usage attributed to games
+     Community / Explore:
+         List of recommended games based on the genres and trends of the current games on device
++ User accounts must be active on GameTime.
+    Users can sign up and must login to access GameTime
++ Friends networking must be in place
+    Add Friends
+    View Friends
+    Delete Friends
+    Search for Friends	
++ Recommended Games
+    Create an algorithm that will check for the data-usage of games on device + the genre to generate a list of games scrapped from GooglePlay which match the genre and have high ratings.
 
 v.	Additional Work:
 a.	Need to figure out how to Hook-up to Facebook
