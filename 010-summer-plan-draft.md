@@ -27,13 +27,14 @@ Has three main ‘functions’: My Games,  Friends,  Community / Explore
 
 ####Requirements for Final Product (Fall 2014):
 + Deployable Android application
-   3 Main Functions finished:
+<pre><code>3 Main Functions finished:
      My Games:	
          Views see their own data usage attributed to games.
      Friends:
          Views see their friends list of usage attributed to games
      Community / Explore:
          List of recommended games based on the genres and trends of the current games on device
+</code></pre>
 + User accounts must be active on GameTime.
     Users can sign up and must login to access GameTime
 + Friends networking must be in place
