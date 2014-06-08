@@ -36,14 +36,16 @@ Has three main ‘functions’: My Games,  Friends,  Community / Explore
          List of recommended games based on the genres and trends of the current games on device
 </code></pre>
 + User accounts must be active on GameTime.
-    Users can sign up and must login to access GameTime
+<pre><code>Users can sign up and must login to access GameTime</code></pre>
 + Friends networking must be in place
++ <pre><code>
     Add Friends
     View Friends
     Delete Friends
-    Search for Friends	
+    Search for Friends
+</code></pre>
 + Recommended Games
-    Create an algorithm that will check for the data-usage of games on device + the genre to generate a list of games scrapped from GooglePlay which match the genre and have high ratings.
+<pre><code>    Create an algorithm that will check for the data-usage of games on device + the genre to generate a list of games scrapped from GooglePlay which match the genre and have high ratings.</code></pre>
 
 v.	Additional Work:
 a.	Need to figure out how to Hook-up to Facebook
