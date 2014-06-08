@@ -38,62 +38,70 @@ Has three main ‘functions’: My Games,  Friends,  Community / Explore
 + User accounts must be active on GameTime.
 <pre><code>Users can sign up and must login to access GameTime</code></pre>
 + Friends networking must be in place
-+ <pre><code>
-    Add Friends
-    View Friends
-    Delete Friends
-    Search for Friends
+<pre><code>Add Friends
+View Friends
+Delete Friends
+Search for Friends
 </code></pre>
 + Recommended Games
-<pre><code>    Create an algorithm that will check for the data-usage of games on device + the genre to generate a list of games scrapped from GooglePlay which match the genre and have high ratings.</code></pre>
+<pre><code>Create an algorithm that will check for the data-usage of games on device + the genre to generate a list of games scrapped from GooglePlay which match the genre and have high ratings.
+</code></pre>
 
-v.	Additional Work:
-a.	Need to figure out how to Hook-up to Facebook
-b.	Need to learn how to scrap GooglePlay
-c.	Setup Database for user accounts 
+####Additional Work:
++ Need to figure out how to Hook-up to Facebook
++ Need to learn how to scrap GooglePlay
++ Setup Database for user accounts 
 
-vi.	Unclear Specifications:
-a.	Social networking end of the project:
-i.	Facebook ties into account creation/login???
-ii.	Other social media sites:
-1.	Twitter
-2.	Tumblr
-3.	Linkedin
+####Unclear Specifications:
++ Social networking end of the project:
++ Facebook ties into account creation/login???
++ Other social media sites:
+<pre><code>Twitter
+Tumblr
+Linkedin
+</code></pre>
 
-vii.	Integral work to Project:
-a.	Strong android programming skills
-b.	User account Database
-i.	Without this the whole project is pointless
-c.	Recommended Games List
+####Integral work to Project:
++ Strong android programming skills
++ User account Database
++ Without this the whole project is pointless
++ Recommended Games List
 
-viii.	Required Skills:
-a.	Android Programming
-b.	Database Management
-c.	Project Management
-d.	Usability Testing Experience
+####Required Skills:
++ Android Programming
++ Database Management
++ Project Management
++ Usability Testing Experience
 
-ix.	Team Members with these Skills:
-a.	Back End Programming:
-i.	Joshua
-ii.	Ryan
-iii.	Marissa
-b.	Front End Programming:
-i.	Joshua
-ii.	Ryan
-c.	UI Design:
-i.	Faraz
-ii.	Damon
-iii.	Marissa
-d.	Management:
-i.	Joshua
-ii.	Marissa
-iii.	Faraz
-e.	Usability Testing
-i.	Damon
-ii.	Marissa
+####Team Members with these Skills:
++ Back End Programming:
+<pre><code>   Joshua
+   Ryan
+   Marissa
+</code></pre>
++ Front End Programming:
+<pre><code>   Joshua
+   Ryan
+   Damon
+</code></pre>
++ UI Design:
+<pre><code>   Faraz
+   Damon
+   Marissa
+</code></pre>
++ Management:
+<pre><code>   Joshua
+   Faraz
+   Marissa
+</code></pre>
++ Usability Testing
+<pre><code>   Damon
+   Marissa
+</code></pre>
 
-x.	Plans for Team Members without Skills:
-a.	There are members who are stronger in fields than others.  However, for the most part, all members have some degree of all the skills.  In order to strengthen these skills, there will be set requirements over summer (which will be “Assignments” so to speak) in all the fields to push members to further their progress in the four areas.
+####Plans for Team Members without Skills:
+<pre><code> There are members who are stronger in fields than others.  However, for the most part, all members have some degree of all the skills.  In order to strengthen these skills, there will be set requirements over summer (which will be “Assignments” so to speak) in all the fields to push members to further their progress in the four areas.
+</code></pre>
 
 xi.	Timeline: 
 
