@@ -109,31 +109,31 @@ in all the fields to push members to further their progress in the four areas.
 ####Timeline: 
 
 + June 16 – June 30
-<pre><code>➢	Take some rest before the July 1st start of learning tasks.
+<pre><code>➢     Take some rest before the July 1st start of learning tasks.
 ➢	Communicate with Sponsor that team will be taking some time to recuperate.  
 ➢	Joshua: Work at M2Catalyst and learn from Software team there.
 </code></pre>
 
 + July 1 – July 11
-<pre><code>➢	Entire Team: Read more into Android Programming.
+<pre><code>➢     Entire Team: Read more into Android Programming.
 ➢	Communicate with Sponsor what we are learning.
 ➢	Communicate with team. 
 </code></pre>
 
 + July 12 – July 18
-<pre><code>➢	Entire Team: Continue learning Android Programming.
+<pre><code>➢     Entire Team: Continue learning Android Programming.
 ➢	Continue Communication with Sponsor.
 ➢	Continue to Communicate with team.
 </code></pre>
 
 + July 21 – July 31
-<pre><code>➢	Entire Team: Continue learning Android Programming
+<pre><code>➢     Entire Team: Continue learning Android Programming
 ➢	Continue Communication with team.
 ➢	Continue Communication with Sponsor. 
 </code></pre>
 
 + August 1 – August 15
-<pre><code>➢	Sponsor: Deliver new SDK to team. 
+<pre><code>➢ Sponsor: Deliver new SDK to team. 
 ➢	Faraz, Marissa, Damon: Learn about Front end UI Development for Android
 ➢	Ryan, Joshua: Learn how to integrate SDK backend with front end.
 ➢	Continue Communication with Team. 
@@ -141,7 +141,7 @@ in all the fields to push members to further their progress in the four areas.
 </code></pre>
 
 + August 16– August 29
-<pre><code>➢	Sponsor: Deliver new SDK to team (if not delivered yet). 
+<pre><code>➢Sponsor: Deliver new SDK to team (if not delivered yet). 
 ➢	Faraz, Marissa, Damon: Continue to Learn about Front end UI Development for Android
 ➢	Ryan, Joshua:  Continue to Learn how to integrate SDK backend with front end.
 ➢	Continue Communication with Team. 
@@ -149,7 +149,7 @@ in all the fields to push members to further their progress in the four areas.
 </code></pre>
 
 + September 1 – September 12
-<pre><code>➢	Sponsor: Deliver new SDK to team (if not delivered yet). 
+<pre><code>➢Sponsor: Deliver new SDK to team (if not delivered yet). 
 ➢	Team: Discuss all of the things that we have learned over the summer.
 ➢	Team: Develop and action plan on when to start integrating all our new learned skills with GameTime App.
 ➢	Continue to communicate with Sponsor
