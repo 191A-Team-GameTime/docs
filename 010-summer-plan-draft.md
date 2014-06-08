@@ -8,8 +8,8 @@
 
 ####Functional Requirements Met (Spring 2014):
 + 3 Mock-ups produced
-<pre><code> * Must demonstrate the flow of usability 
-* Has three main ‘functions’: My Games,  Friends,  Community / Explore
+<pre><code>Must demonstrate the flow of usability 
+Has three main ‘functions’: My Games,  Friends,  Community / Explore
 </code></pre>
 + 1-2 Flow Chart to illustrate interactions
 
