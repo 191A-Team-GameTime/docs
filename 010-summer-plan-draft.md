@@ -13,16 +13,17 @@ Has three main ‘functions’: My Games,  Friends,  Community / Explore
 </code></pre>
 + 1-2 Flow Chart to illustrate interactions
 
-ii.	Non-Functional Requirements Met (Spring 2014):
-a.	Learn android programming
-b.	Get feedback on mock-ups from target audience
-c.	Learn how UML & Flow chart diagrams work
+####Non-Functional Requirements Met (Spring 2014):
++ Learn android programming
++ Get feedback on mock-ups from target audience
++ Learn how UML & Flow chart diagrams work
 
-iii.	Sponsor Feedback (Spring 2014):
-a.	Good Mock-ups:
-i.	Suggested minor changes, overall very pleased with our grasp of the project and tuning into their wants.
-ii.	Gather feedback from Target audiences on Mock-ups 2.0
-iii.	Begin plans for Phase 2 of the ‘Final’ Project
+####Sponsor Feedback (Spring 2014):
++ Good Mock-ups:
+<pre><code>Suggested minor changes, overall very pleased with our grasp of the project and tuning into their wants.
+</code></pre>
++ Gather feedback from Target audiences on Mock-ups 2.0
++ Begin plans for Phase 2 of the ‘Final’ Project
 
 iv.	Requirements for Final Product (Fall 2014):
 a.	Deployable Android application
