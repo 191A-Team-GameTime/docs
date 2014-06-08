@@ -75,32 +75,35 @@ Linkedin
 
 ####Team Members with these Skills:
 + Back End Programming:
-<pre><code>   Joshua
+<pre><code>Joshua
    Ryan
    Marissa
 </code></pre>
 + Front End Programming:
-<pre><code>   Joshua
+<pre><code>Joshua
    Ryan
    Damon
 </code></pre>
 + UI Design:
-<pre><code>   Faraz
+<pre><code>Faraz
    Damon
    Marissa
 </code></pre>
 + Management:
-<pre><code>   Joshua
+<pre><code>Joshua
    Faraz
    Marissa
 </code></pre>
 + Usability Testing
-<pre><code>   Damon
+<pre><code>Damon
    Marissa
 </code></pre>
 
 ####Plans for Team Members without Skills:
-<pre><code> There are members who are stronger in fields than others.  However, for the most part, all members have some degree of all the skills.  In order to strengthen these skills, there will be set requirements over summer (which will be “Assignments” so to speak) in all the fields to push members to further their progress in the four areas.
+<pre><code> There are members who are stronger in fields than others.  
+However, for the most part, all members have some degree of all the skills.  
+In order to strengthen these skills, there will be set requirements over summer (which will be “Assignments” so to speak)
+in all the fields to push members to further their progress in the four areas.
 </code></pre>
 
 xi.	Timeline: 
