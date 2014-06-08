@@ -8,11 +8,12 @@
 
 ####Functional Requirements Met (Spring 2014):
 + 3 Mock-ups produced
-&nbsp;&nbsp;&nbsp;++ Must demonstrate the flow of usability 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + Has three main ‘functions’
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + My Games 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + Friends
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + Community / Explore
+<pre><code> +	Must demonstrate the flow of usability 
+Has three main ‘functions’
+   My Games
+   Friends
+   Community / Explore
+</code></pre>
 + 1-2 Flow Chart to illustrate interactions
 
 ii.	Non-Functional Requirements Met (Spring 2014):
