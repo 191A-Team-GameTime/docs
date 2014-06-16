@@ -122,6 +122,7 @@ in all the fields to push members to further their progress in the four areas.
 
 + July 12 – July 18
 <pre><code>➢ Entire Team: Continue learning Android Programming.
+>    Initiate the first of 2 major summer milestones in Android application.
 ➢	Continue Communication with Sponsor.
 ➢	Continue to Communicate with team.
 </code></pre>
@@ -133,7 +134,7 @@ in all the fields to push members to further their progress in the four areas.
 </code></pre>
 
 + August 1 – August 15
-<pre><code>➢ Sponsor: Deliver new SDK to team. 
+<pre><code>➢ Sponsor: Deliver new SDK to team.
 ➢	Faraz, Marissa, Damon: Learn about Front end UI Development for Android
 ➢	Ryan, Joshua: Learn how to integrate SDK backend with front end.
 ➢	Continue Communication with Team. 
@@ -142,6 +143,8 @@ in all the fields to push members to further their progress in the four areas.
 
 + August 16– August 29
 <pre><code>➢ Sponsor: Deliver new SDK to team (if not delivered yet). 
+>    Review the First major Milestone for Summer 
+>    Initiate second major milestone for summer in Android application.
 ➢	Faraz, Marissa, Damon: Continue to Learn about Front end UI Development for Android
 ➢	Ryan, Joshua:  Continue to Learn how to integrate SDK backend with front end.
 ➢	Continue Communication with Team. 
@@ -162,6 +165,7 @@ in all the fields to push members to further their progress in the four areas.
 
 + September 20 – September 30
 <pre><code>➢ Resume school at UC Irvine
+>    Deliver second major milestone from summer programming in Android application.
 ➢	Begin executing action plan of integration
 ➢	Communicate with Sponsor
 ➢	Be sad in 191B because Six is no longer our TA.
