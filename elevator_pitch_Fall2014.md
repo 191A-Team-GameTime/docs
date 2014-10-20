@@ -2,10 +2,9 @@
 <br>
 #Elevator Pitch
 
-How many of you have games on your phone? 
+What can your phone tell you about yourself?
+What can it tell you about your friends and family? It can probably tell you who you like to talk to the most, or what you enjoy doing in your spare time. Pieces of yourself can be viewed through the lens of your mobile device, and GameTime can help you take a look. 
 
-Imagine this scenario. You've been playing Candy Crush for days on end. You haven't eaten, showered, or used the bathroom without your phone by your side. You reached level 382 in this short span of time, but you forgot one thing: You didn't keep track of how long you were playing! But worry not, Game Time is here to help. 
+GameTime is an Android based application that offers you the opportunity the ability to track and view data usage from games and applications on your mobile device. With GameTime, you can completetly customize your experience by picking and choosing which applications you want to track. You can view specific application runtime or battery usage, or view all running applications to get a fuller picture at your mobile life. In addition to tracking data about yourself, you can also check out statistics about your friends and people in your community. Compare high scores, download popular games, or see how long your friends really spend on their phone.
 
-GameTime is an Android based application that offers you the opportunity the ability to track and view data usage from games on your mobile device. But it doesn't stop there, with GameTime, you can completetly customize your experience by picking and choosing which applications you want to track. You can view run time, battery life expended, and bandwith used through GameTime. In addition to tracking game data about yourself, you can also check out statistics about your friends and people in your community. Compare high scores, download popular games, or see how long your friends really spend on their phone.
-
-GameTime extends the gaming experience from beyond your phone to create a friendly enviornment for friends, family and community to interact and taking playing games to a whole new level.
+GameTime extends the mobile life experience from beyond your phone to create a friendly enviornment for friends, family and communit.
