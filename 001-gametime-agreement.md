@@ -5,8 +5,7 @@ The purpose of this document is to establish basic team roles; outline ways of k
 
 #Meeting Times & Roles
 In addition to attending lectures, Team Gametime will have meetings, which will take place on:
-Wednesdays between 5pm - 8pm in the ICS building at UCI
-Tuesdays & Thursdays between 12:30pm -1:10pm at the JavaCity parallel to Donald Bren Hall
+Tuesdays & Thursdays between 2:00pm -3:10pm, and 5:00pm - 7:00pm, both at the ICS 193 Senior Design room. 
 
 With the option of meeting for extended periods of time over weekends in the case of imminent deadlines needing more dedicated work sessions. To ensure productive meetings, the following tasks will be delegated to different members on a rotating basis:
 
@@ -19,18 +18,19 @@ This leaves 1 person “out” of the cycle for each meeting, providing some sla
 
 Addition to this, meetings scheduled with stakeholders will be expected to be attended on a weekly basis. These meetings will be scheduled based on the stakeholders availabilities, and will be assigned to at least 4 of the 5 team members for attendance. Attendance of these stakeholder meetings will be on a rotation in order to accommodate those members of the group whom are unable to attend because of conflicting schedules. 
 
+We intend to meet with our stakeholders the 1st week of November and the 1st week of December. These two meetings will be held at the M2catalyst offices in Aliso Viejo. All other interactions will be held during weekly and biweekly conference calls. 
+
 #Enforcement
 In order to enforce that all members attend the meetings, we will be setting up a “pizza” rule for our team. A member of the team will have to provide pizza for the team if any of the following occur:
 
 +      Late/unexcused absence  to a scheduled meeting.
-+       Attending a meeting unprepared.
++      Attending a meeting unprepared.
 +      Lack of involvement/presence in meetings.
 
 Team members will be held accountable and adhere to the “pizza” rule. 
 
 #Calendar
-A group calendar (using the Google Calendar service) detailing deadlines, activities, and events scheduled for Informatics 191A will be maintained by all of the members and used as is necessary. Modifications made to events within 7 days should be accompanied by an email 
-to team members advising of changes to imminent events.
+A group calendar (using the Google Calendar service) detailing deadlines, activities, and events scheduled for Informatics 191A will be maintained by all of the members and used as is necessary. Modifications made to events within 7 days should be accompanied by an email to team members advising of changes to imminent events.
 
 #Communication Methods
 Email will be the primary method of communication both internally and externally (with the teaching assistant (TA) and the instructor). All members agree to check their corresponding email address listed below at least twice per day (with no more than 12 hours between checks) during the week, and at least once per day during the weekend.
