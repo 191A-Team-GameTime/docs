@@ -1,23 +1,23 @@
-# Requirements 
+# Requirements
 
 ##Team GameTime
 
 ### Assumptions
 
-+ There exists a backend SDK from which we will build this project 
++ There exists a backend SDK from which we will build this project
 + There exists a target audience for which this project has been deemed useful
 + SDK can support gathering user specific data analystics about application usage relevant to the GameTime App
-+ 
++
 ### Functional Requirements
 
-+ The system shall have a location based check-in system.
 + The system shall have a leaderboard for the each various game genre over a specified amount of time.
-+ The leaderboard will also be location based.
++ The leaderboard will be configurable.
 + The leaderboard shall be based around the most time spent on games within specific genres
 + There shall be a ranking system among users.
-+ There shall be an Achievements system.
 + The application will notify users of changed status within leaderboards (shown on inbox tray)
-+ The application will support challenge mode. 
++ The game will track data about a users time spent playing games.
++ The user can specify what applications can and can't be tracked.
++ The application will allow users to directly download games from the marketplace. 
 + The system shall allow messaging among friends, Twitter, etc.
 + The system will provide smart recommendations for new games the user should try.
 
@@ -35,5 +35,5 @@
 
 + The system will be only Android compatible.
 + The system will be efficient and reliable for all mobile devices.
-+ The system will have background services constantly running 
++ The system will have background services constantly running
 + The system will have foreground services running if users decide
