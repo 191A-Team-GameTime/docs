@@ -4,20 +4,21 @@
 ###Project Game Time
 
 ##Initial Tasks
-+ Get everyone up and running on Game Time
-+ Collaborate with Sponsor to determine quarter timeline
-+ Establish milestones
-+ Iron out the Dalvik issues
-+ Delegate tasks for the quarter, role switching.
++ Asses UI responsive changes
++ Test Application on Tablet
++ Community tab backend assessment
++ Novemberfest Prep
++ Novemberfest
 
 ##Complete Tasks
-+ Get everyone up and running on Game Time
-+ Collaborate with Sponsor to determine quarter timeline 
-+ Establish milestones
-+ Iron out the Dalvik issues
-+ Delegate tasks for the quarter, role switching.
++ Asses UI responsive changes
++ Test Application on Tablet
++ Community tab backend assessment
++ Novemberfest Prep
++ Novemberfest
 
 
 ##Uncompleted Taks
-+ None
++ (same as last sprint)
++ Waiting on structure from M2Catalyst before User Testing.
 
